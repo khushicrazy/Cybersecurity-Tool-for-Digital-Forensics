@@ -1,0 +1,11 @@
+#Requirements 
+#lib to run this code 
+tkinter,
+filedialog, 
+messagebox,
+cv, 
+PIL, 
+Image,
+ImageTk,
+magic
+os
